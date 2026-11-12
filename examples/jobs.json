@@ -1,0 +1,30 @@
+[
+  {
+    "company": "Example Studio",
+    "id": "demo-1",
+    "title": "Junior Backend Developer",
+    "location": "Remote",
+    "eligibility": "unverified"
+  },
+  {
+    "company": "Example Support",
+    "id": "demo-2",
+    "title": "IT Helpdesk",
+    "location": "Taiwan",
+    "eligibility": "unverified"
+  },
+  {
+    "company": "Example Studio",
+    "id": "demo-1",
+    "title": "Junior Backend Developer",
+    "location": "Remote",
+    "eligibility": "unverified"
+  },
+  {
+    "company": "Example Labs",
+    "id": "demo-3",
+    "title": "Senior Software Engineer",
+    "location": "Remote",
+    "eligibility": "unverified"
+  }
+]
