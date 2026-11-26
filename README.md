@@ -1,5 +1,7 @@
 # FindingJob Portfolio Demo
 
+**繁體中文** | [English](./README.en.md) | [日本語](./README.ja.md)
+
 以 AI 協作建立的求職研究流程之**安全縮小展示版**。原工作區涉及私人履歷與郵件，本 repository 不包含那些資料，也不是原系統的完整開源備份。
 
 ## 可以試什麼
